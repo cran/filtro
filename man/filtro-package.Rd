@@ -6,12 +6,15 @@
 \alias{filtro-package}
 \title{filtro: Feature Selection Using Supervised Filter-Based Methods}
 \description{
+\if{html}{\figure{logo.png}{options: style='float: right' alt='logo' width='120'}}
+
 Tidy tools to apply filter-based supervised feature selection methods. These methods score and rank feature relevance using metrics such as p-values, correlation, and importance scores (Kuhn and Johnson (2019) \doi{10.1201/9781315108230}).
 }
 \seealso{
 Useful links:
 \itemize{
   \item \url{https://github.com/tidymodels/filtro}
+  \item \url{https://filtro.tidymodels.org/}
   \item Report bugs at \url{https://github.com/tidymodels/filtro/issues}
 }
 
@@ -21,7 +24,7 @@ Useful links:
 
 Authors:
 \itemize{
-  \item Max Kuhn \email{max@posit.co}
+  \item Max Kuhn \email{max@posit.co} (\href{https://orcid.org/0000-0003-2402-136X}{ORCID})
   \item Emil Hvitfeldt \email{emil.hvitfeldt@posit.co}
 }
 
